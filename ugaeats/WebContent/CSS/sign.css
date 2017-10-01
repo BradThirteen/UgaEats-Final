@@ -1,0 +1,106 @@
+.topDiv {
+	background-color: #B0EC96;
+	height : 170px;\
+}
+
+.delete {
+	display: inline;
+}
+
+.button2 {
+	background-color: #B0EC96;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.basic {
+	display: inline;
+}
+.sign {
+	top: 0;
+	right: 0;
+	width: 40%;
+	display: inline;
+}
+
+.buttons {
+	left:0;
+	top:0;
+	display: inline;
+	width: 40%;
+}
+
+.right {
+	float: right;
+}
+
+.button, .label{
+	background-color: #B0EC96;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button:hover {
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
+.input {
+	border: groove;
+	border-color: #B0EC96
+}
+
+.text {
+	font-size: 23px;
+}
+
+.logo {
+	display:table;
+  	margin-right: auto;
+  	margin-left: auto;
+  	height: 110px;
+}
+
+.center {
+	padding: 10px;
+	display:table;
+  	margin-right: auto;
+  	margin-left: auto;
+}
+
+.createCenter {
+	width: 200px;	
+}
+
+.steps {
+	margin-bottom: 5px;	
+}
+
+.well {
+	height: 175px;
+	width: 250px;
+	border-radius: 10px;
+	background-color: white;
+	padding: 10px;
+	display: inline-block;
+	margin: 15px;
+	text-align: center;
+}
+
+.well2 {
+	height: 350px;
+}

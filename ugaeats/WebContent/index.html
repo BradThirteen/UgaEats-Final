@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>UGA Eats</title>
+<script src="JS/jquery.js" type="text/javascript"></script>
+<script src="JS/recipe.js" type="text/javascript"></script>
+<link href="CSS/index.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+	<div class="topDiv">
+		<div class="buttons">
+			<form class="formHome" action="RecipeServlet" method="get">
+				<button class="button" name="home">Home</button>
+				<button class="button" name="viewRecipe">View Recipes</button>
+				<button class="button" name="viewProfile">View Profile</button>
+				<button class="button" name="friends">Friends</button>
+				<button class="button right" name="openSigninPage">Sign-In</button>
+				<button class="button right" name="openSignupPage">Sign-Up</button>
+			</form>
+		</div>
+		<img class="logo" src="https://pbs.twimg.com/profile_images/378800000274109762/d435f305c1c6737cf29659aa6592537c.jpeg">
+	</div>
+	<form action="RecipeServlet" class="recipeListForm" method="get">
+			<div id="recipeHolder"><h1>Popular Recipes</h1></div>
+			<div id="recipeViewer"></div>
+	</form>
+</body>
+</html>

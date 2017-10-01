@@ -1,0 +1,301 @@
+.right {
+	float: right;
+	margin-left: 10px;
+}
+
+#recipeHolder{
+	background-color: #efefef;
+	border-radius: 5px;	
+}
+
+#recipeList{
+	background-color: #efefef;
+	border-radius: 5px;	
+}
+
+
+.class {
+	float: left;
+	width: 20%;
+}
+
+#share {
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.favorite {
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button2 {
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.centerStuff {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#back {
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#back2 {
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#back3 {
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.viewRecipe {
+	margin-left: 0px;
+	padding-left: 0px;
+	font-size: 1.5em;
+	display: block;
+	margin-bottom: 20px;
+	background: none;
+	outline: none;
+	border: none;
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.viewRecipe2 {
+	margin-left: 0px;
+	padding-left: 0px;
+	font-size: 1.5em;
+	display: block;
+	margin-bottom: 20px;
+	background: none;
+	outline: none;
+	border: none;
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.viewRecipe3 {
+	margin-left: 0px;
+	padding-left: 0px;
+	font-size: 1.5em;
+	display: block;
+	margin-bottom: 20px;
+	background: none;
+	outline: none;
+	border: none;
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.recipeListForm {
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 35%;
+}
+
+.user {
+	margin-left: 0px;
+	padding-left: 0px;
+	display: block;
+	background: none;
+	outline: none;
+	border: none;
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.parent {
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+.inlineP {
+	margin-top: 20px;
+}
+
+.topDiv {
+	background-color: #B0EC96;
+	height : 170px;
+}
+
+.formHome {
+	display: inline;
+}
+
+.text {
+	font-size: 23px;
+}
+
+.testimage {
+	width: 150px;
+	height: 150px;
+	display: inline;
+}
+
+.infoDiv {
+	float: left;
+	width: 150px;
+	height: 150px;
+	margin-right: 25px;
+	text-align: left;
+}
+
+.button {
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.logo {
+	display:table;
+  	margin-right: auto;
+  	margin-left: auto;
+  	height: 110px;
+}
+
+.buttons {
+	display: inline;
+}
+
+.sign {
+	top: 0;
+	right: 0;
+	display: inline;
+}
+
+.button:hover {
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
+.button, .label {
+	background-color: #B0EC96;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.input {
+	border: groove;
+	border-color: #B0EC96
+}
+
+.searchDiv {
+	border: dotted;
+	/*height: 175px;
+	width: 1150px;*/
+	border-radius: 10px;
+	padding: 10px;
+	display: inline-block;
+	margin: 15px;
+}
+
+.center {
+	padding: 15px;
+	display:table;
+  	margin-right: auto;
+  	margin-left: auto;
+}
+
+.well {
+	width: 30%;
+    border:5px solid red;
+    display: inline;
+    background-color: lightblue;
+    border-radius: 10px;
+    margin-top: 2%;
+}
+
+.rightDiv {
+	float: right;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+.leftDiv {
+	margin-right: 2%;
+	margin-left: 2%;
+	float: left;
+}
+
+.centerDiv {
+	margin-right: 2%;
+	margin-left: 2%;
+}
